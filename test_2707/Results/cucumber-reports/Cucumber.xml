@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Requesting for an application" name="To Requesting for an application" time="0">
+<system-out><![CDATA[Given Browser is launched and user is loggedin and navigated to application page.skipped
+]]></system-out>
+</testcase>
+</testsuite>

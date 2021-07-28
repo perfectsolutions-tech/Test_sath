@@ -1,0 +1,39 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 9,
+        "name": "To Requesting for an application",
+        "description": "",
+        "id": "requesting-for-an-application;to-requesting-for-an-application;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "Browser is launched and user is loggedin and navigated to application page",
+            "match": {
+              "location": "StepDefinition.browser_is_launched_and_user_is_loggedin_and_navigated_to_application_page()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Requesting for an application",
+    "description": "",
+    "id": "requesting-for-an-application",
+    "keyword": "Feature",
+    "uri": "IDHub.feature"
+  }
+]
